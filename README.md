@@ -61,8 +61,6 @@ python3 make_handout.py <dir>         # 生成模型侧目录 (只有题面+样�
 
 ## 排行榜
 
-📊 **<https://exynos967.github.io/edgecloud-bench/>**
-
 排名依据为决赛平均分（FINAL MEAN），预赛均分仅作展示。上榜方式（SWE-bench 式自评 + 公开审计）：
 
 1. 按上文评测纪律完成一次正式评测
