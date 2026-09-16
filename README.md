@@ -74,6 +74,8 @@ python3 make_handout.py <dir>         # 生成模型侧目录 (只有题面+样�
 
 ## 给模型的测试提示词
 
+### git clone仓库后请运行make_handout.py创建一个workdir目录，并让harness指定该目录为工作目录
+
 ```text
 你在参加一个交互式调度编程评测。
 
