@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-16",
   "metric": "final_mean",
   "entries": [
     {
@@ -11,6 +11,16 @@
       "lang": "Go",
       "cpu_time": 8.22,
       "date": "2026-09-12"
+    },
+    {
+      "model": "GPT-6-Astra Xhigh",
+      "harness": "Prism",
+      "final_mean": 529.233047,
+      "final_passed": "20/20",
+      "prelim_mean": 510.501242,
+      "lang": "C++17",
+      "cpu_time": 2.05,
+      "date": "2026-09-16"
     },
     {
       "model": "Kimi-K2.8 Max",
