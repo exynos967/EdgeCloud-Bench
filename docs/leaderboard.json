@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-17",
   "metric": "final_mean",
   "entries": [
+    {
+      "model": "DeepSeek V4.1 Flash 1017 Max",
+      "harness": "DSH",
+      "final_mean": 534.26182,
+      "final_passed": "20/20",
+      "prelim_mean": 486.604833,
+      "lang": "Go",
+      "cpu_time": 4.38,
+      "date": "2026-10-17"
+    },
     {
       "model": "Kimi-K3 High",
       "harness": "Claude Code",
